@@ -10,3 +10,12 @@ Used the following Python packages:
 
 ---
 This is a CLI script that takes a positional argument for the Zip Code and an optional argument for the country
+
+----
+11/1/22:
+Future improvements:
+Extract items from the final Json output list, such as:
+- location
+- humidity
+- temperature (convert the temperature into Celsius and Farenheight)
+- Print this new output into a key/value pair table that is easy to read
